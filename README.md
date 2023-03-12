@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **natibogale/natibogale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### <samp>&gt; Hi there, I'm <a href="#" target="_blank">Nathanael</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=natibogale.natibogale)
 
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
@@ -34,7 +34,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - <img src="https://github.com/natibogale/natibogale/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: nathanaelbogale0@gmail.com;
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=natibogale.natibogale)
 
 
 📊 **This Week I Spent My Time On:**

@@ -29,7 +29,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/natibogale/natibogale/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/natibogale/natibogale/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Cloud Development on ALX;
+- <img src="https://github.com/natibogale/natibogale/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning AWS on ALX;
 - <img src="https://github.com/natibogale/natibogale/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/natibogale/natibogale/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: nathanaelbogale0@gmail.com;
 
@@ -43,10 +43,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <!--END_SECTION:waka-->
 
-
-📈 **My GitHub Stats:**
+<!--
+#📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natibogale&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natibogale&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+-->
